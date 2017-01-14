@@ -27,8 +27,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-//////////////////////BLAAAAAAAAAAAAAAAAAAAAAAAAA
-        //////BLAAAAAAAAdddAAVjbsrljgrwVVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
     // Example of a call to a native method
     TextView tv = (TextView) findViewById(R.id.sample_text);
     tv.setText(stringFromJNI());
